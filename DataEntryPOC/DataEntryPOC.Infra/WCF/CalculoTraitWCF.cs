@@ -1,0 +1,14 @@
+﻿using DataEntryPOC.Domain.Interfaces.WCF;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataEntryPOC.Infra.WCF
+{
+    public class CalculoTraitWCF : ICalculoTraitWCF
+    {
+
+    }
+}

@@ -1,0 +1,7 @@
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\bin\Debug\DataEntryPOC.Domain.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\bin\Debug\DataEntryPOC.Domain.pdb
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\obj\Debug\DataEntryPOC.Domain.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\obj\Debug\DataEntryPOC.Domain.pdb
+C:\Users\raphael.l.fernandes\Documents\Visual Studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\obj\Debug\DataEntryPOC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\raphael.l.fernandes\Documents\Visual Studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\bin\Debug\DataEntryPOC.Domain.dll.CodeAnalysisLog.xml
+C:\Users\raphael.l.fernandes\Documents\Visual Studio 2013\Projects\DataEntryPOC\DataEntryPOC.Domain\bin\Debug\DataEntryPOC.Domain.dll.lastcodeanalysissucceeded

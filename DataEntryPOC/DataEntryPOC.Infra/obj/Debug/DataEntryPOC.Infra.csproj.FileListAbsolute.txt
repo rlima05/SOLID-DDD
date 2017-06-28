@@ -1,0 +1,14 @@
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\obj\Debug\DataEntryPOC.Infra.csprojResolveAssemblyReference.cache
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Infra.dll.config
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Infra.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Infra.pdb
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Domain.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\EntityFramework.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Domain.pdb
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\EntityFramework.xml
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\obj\Debug\DataEntryPOC.Infra.dll
+c:\users\raphael.l.fernandes\documents\visual studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\obj\Debug\DataEntryPOC.Infra.pdb
+C:\Users\raphael.l.fernandes\Documents\Visual Studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Infra.dll.CodeAnalysisLog.xml
+C:\Users\raphael.l.fernandes\Documents\Visual Studio 2013\Projects\DataEntryPOC\DataEntryPOC.Infra\bin\Debug\DataEntryPOC.Infra.dll.lastcodeanalysissucceeded
